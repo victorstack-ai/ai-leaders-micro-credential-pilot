@@ -1,0 +1,59 @@
+{
+  "cohortName": "AI Leaders Micro-Credential",
+  "startDate": "2026-03-02",
+  "weeks": 6,
+  "sessionsPerWeek": 2,
+  "sessionMinutes": 120,
+  "capacity": 30,
+  "facilitatorRatio": 15,
+  "daysOfWeek": [1, 3],
+  "targetRoles": [
+    "Directors and VPs leading AI adoption",
+    "Product and data leaders running cross-functional teams",
+    "Innovation program managers"
+  ],
+  "outcomes": [
+    "Define an AI strategy aligned to business value",
+    "Build a responsible adoption roadmap",
+    "Operationalize governance and change management",
+    "Launch a measurable pilot within 90 days"
+  ],
+  "modules": [
+    {
+      "title": "AI Leadership Foundations",
+      "topics": [
+        "Executive framing and value narratives",
+        "Strategic opportunity sizing",
+        "Stakeholder alignment & sponsorship"
+      ],
+      "format": "seminar"
+    },
+    {
+      "title": "Responsible Adoption",
+      "topics": [
+        "Risk, compliance, and model governance",
+        "Data readiness and operating model",
+        "Ethics-by-design decision making"
+      ],
+      "format": "workshop"
+    },
+    {
+      "title": "Delivery & Change",
+      "topics": [
+        "Product discovery for AI solutions",
+        "Capability building and talent mix",
+        "Change management playbooks"
+      ],
+      "format": "lab"
+    },
+    {
+      "title": "Pilot Launch",
+      "topics": [
+        "Experiment design and success metrics",
+        "Pilot communications and enablement",
+        "Capstone rehearsal and pitch"
+      ],
+      "format": "panel"
+    }
+  ]
+}
